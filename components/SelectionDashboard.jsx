@@ -9,9 +9,9 @@ const SelectionDashboard = () => {
         <DemoCard />
 
 
-      {/* <h1>main product selection dashboard</h1>
+      <h1>main product selection dashboard</h1>
       Signed in as {session.user.email} <br />
-      <button onClick={() => signOut()}>Sign out</button> */}
+      <button onClick={() => signOut()}>Sign out</button>
     </div>
   );
 };
